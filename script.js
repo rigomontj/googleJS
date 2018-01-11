@@ -17,3 +17,7 @@ function recherche()
 	document.location.href="https://www.google.fr/#q=" + adresse;
 }
 
+setTimeout( function popup()
+{
+	alert("Vous voulez agrandir la taille de votre penis ? N'attendez plus ! Commandez tout de suite CHEVALOR5000 et gagnez 7cm en moins d'une heure !");
+}, 10000);
